@@ -13,6 +13,9 @@
 /.next/
 /out/
 
+#database-Key
+db.js
+
 # production
 /build
 
